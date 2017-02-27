@@ -1,0 +1,3 @@
+1.打开mywork,用浏览器打开index.html文件即可
+
+2.浏览手机端页面需要在谷歌或搜狗浏览器的手机端预览模式下预览页面，或直接进入3c_tamll/in_nTmall文件夹里的3c_tamll.html/in_nTmall.html进行预览
